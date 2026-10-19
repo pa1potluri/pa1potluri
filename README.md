@@ -19,6 +19,6 @@ More tools are on the way: VFX tips, small pipeline helpers and free web tools.
 
 ### Get in touch
 
-- <!-- email / LinkedIn / IMDb / showreel links go here once Pavan picks them -->
+- LinkedIn: [linkedin.com/in/pavanpotluri](https://www.linkedin.com/in/pavanpotluri/)
 
 <sub>All tools here are free (MIT). A star or a credit is the best thank-you.</sub>
