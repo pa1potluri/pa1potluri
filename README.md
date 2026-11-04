@@ -19,7 +19,9 @@ on-set supervision and delivery QC, by the day, the week or the project.
 
 **→ [pa1potluri.github.io/consulting](https://pa1potluri.github.io/consulting/)** · free 20-minute call to start
 
+### 🛍 PKP Studio
 
+Tools, School and Community: **[pa1potluri.github.io](https://pa1potluri.github.io/)** · tools shop: [/tools](https://pa1potluri.github.io/tools/)
 
 ---
 
