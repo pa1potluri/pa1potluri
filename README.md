@@ -17,7 +17,9 @@ not a single "generate" button and a prayer.
 Remote **VFX supervision and consulting**: shot problem solving, pipeline reviews, bids and vendor checks,
 on-set supervision and delivery QC, by the day, the week or the project.
 
-**→ [pa1potluri.github.io](https://pa1potluri.github.io/)** · free 20-minute call to start
+**→ [pa1potluri.github.io/consulting](https://pa1potluri.github.io/consulting/)** · free 20-minute call to start
+
+
 
 ---
 
